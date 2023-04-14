@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+  }
+  
+  header, nav,  footer {
+    display: block;
+    width: 100%;
+    margin: 0;
+  }
+  
+  header {
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav a {
+        color: #000000;
+        text-decoration: none;
+        display: inline-block;
+        background-color: rgb(244, 188, 51);
+        padding: 5px 10px;
+        border-radius: 12px;
+        margin-top: 10px;
+
+  }
+
+  .logo {
+    display: flex;
+    padding: left 100px;
+  }
+  
+
+div {
+
+display: flex;
+
+}
+ section {
+  margin:20px;
+ }
+
+ .linguiça {
+  margin-left: 120px;
+ }
+ .lancer2 {
+display: flex;
+float: left;
+ }
