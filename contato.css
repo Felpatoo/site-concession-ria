@@ -73,16 +73,10 @@ form button{
     margin-bottom: 20px;
 }
 form button:hover{
-    background: white;
+    background: rgb(224, 195, 27);
     color: black;
     border-radius: 16px;
 }
-
-
-
-
-
-
 div h2{
     color: white;
     text-shadow: 2px 2px 2px black;
